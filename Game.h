@@ -1,10 +1,3 @@
-/*
-PIC 10B 2A, Homework 1
-Purpose: Tic-tac-toe game
-Author: Anthony Katrdzhyan
-Date: 01/22/2020
-*/
-
 
 #ifndef Game_H
 #define Game_H
